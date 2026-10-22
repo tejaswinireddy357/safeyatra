@@ -7,7 +7,7 @@
 A solo-travel safety app that plans your drive, keeps a trusted contact in your corner, and runs a check-in timer so someone always knows you are okay.
 
 ## 🌐 Live Demo
-👉 [Click here to try SafeYatra](https://YOUR-APP-NAME.streamlit.app)
+👉 [Click here to try SafeYatra](https://safeyatra-jcuszz5dd8k7fqnsbacuzh.streamlit.app/)
 
 ## 🚀 Features
 - 🗺️ Plan a route between any two places and see it on a map
